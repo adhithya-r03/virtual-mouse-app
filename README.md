@@ -1,5 +1,7 @@
 # **Virtual mouse using opencv, mediapipe and pyautogui**
 ## Read instructions.pdf to use the default hand movements
+[Virtual_Mouse_instructions.pdf](https://github.com/user-attachments/files/24370572/Virtual_Mouse_instructions.pdf)
+
 ## Important :
 ### not all versions of python and mediapipe support this project
 use **Python 3.8 - 3.11** and **Mediapipe 0.10.14**
